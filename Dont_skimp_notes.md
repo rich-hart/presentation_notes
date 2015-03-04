@@ -7,5 +7,5 @@ http://www.twilio.com/engineering/2012/01/18/dont-skimp-on-documentation
 ## Users are busy
 * Though it is a great book, your goal is to produce a PDF with your homework properly formatted, not to read a novel.
 * The vast majority of people who visit your documentation are there not to learn more about your fascinating product. 
-* You can't expect that users will actually read any of your documentation. 
+* You can't expect that users will actually read any of your documentation. <--
 
