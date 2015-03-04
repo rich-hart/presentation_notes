@@ -73,7 +73,7 @@ letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
 print(''.join(letters))
 ```
 
-##### Other Changes
+##### Clever vs Meaningful
 
 ```python
 letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
@@ -81,7 +81,7 @@ letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
 print(''.join(letters))
 ```
 
-Clever vs Meaningful
+vs
 
 ```python
 import string
