@@ -10,7 +10,7 @@ OpenStax College is a nonprofit organization committed to improving student acce
 Good API documentation means taking these three concepts into account in all levels of documentation. 
 * Source Code
 * Comments / Commit Messages
-* ReadMe Files
+* ReadMe Files / Web Page Documentation
 
 ## Source Code
 
@@ -58,3 +58,10 @@ concat_string = string.join(letters, '')
 
 print(concat_string)
 ```
+
+## ReadMe Files / Web Page Documentation
+
+* http://apidocjs.com/
+* https://github.com/Connexions/cnx-archive/blob/master/search_api_doc.rst
+
+
