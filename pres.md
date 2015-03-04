@@ -14,7 +14,7 @@ Good API documentation means taking these three concepts into account in all lev
 
 ## Source Code
 
-MessyCode.py
+##### MessyCode.py
 
 ```python
 letters = ['a','b','c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
@@ -24,7 +24,8 @@ print(''.join(letters))
 
 Prints a concatenated string of letters.
 
-__Pep8__ is a python style guide for formatting Python scripts.
+##### Pep8
+A python style guide for formatting Python scripts.
 
 ```sh
 $ pep8 MessyCode.py
@@ -38,7 +39,8 @@ You can also link pep8 with git to see you changes in relation to another branch
 git diff [branch_1] [branch_2] | pep8 --diff
 ```
 
-__autopep8__ is a tool to format your code to pep8 standards. 
+##### AutoPep8
+A tool to format your code to pep8 standards. 
 
 ```sh
 $ autopep8 MessyCode.py
@@ -47,7 +49,7 @@ letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
 print(''.join(letters))
 ```
 
-Other usefule changes.
+##### Other usefule changes.
 ```python
 import string
 
