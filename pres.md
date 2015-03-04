@@ -69,5 +69,14 @@ See Karen's talk
 
 ## Other Thoughts
 
-### How Users Read on the Web
-__THEY DON'T!!!__
+### How Users Read Documentation
+
+__THEY DON'T!!!__ People rarely read Web pages word by word; instead, they scan the page, picking out individual words and sentences.
+
+Web pages have to employ scannable text using:
+*  highlighted keywords (hypertext links serve as one form of highlighting; typeface variations and color are others)
+*  meaningful sub-headings (not "clever" ones)
+*  bulleted lists
+*  the inverted pyramid style, starting with the conclusion
+
+
