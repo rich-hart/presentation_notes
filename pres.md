@@ -9,8 +9,10 @@ OpenStax College is a nonprofit organization committed to improving student acce
 
 Good API documentation means taking these concepts into account in all levels of code. 
 * Source Code
-* Comments / Commit Messages
-* ReadMe Files / Web Page Documentation
+* Comments 
+* Commit Messages
+* ReadMe Files
+* API Documentation
 
 ## Source Code
 
