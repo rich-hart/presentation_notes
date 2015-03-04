@@ -83,6 +83,12 @@ __THEY DON'T!!!__ People rarely read Web pages word by word; instead, they scan 
 
 __You can't expect that users will actually read any of your documentation__
 
+Many users will try to copy and paste the exact contents of a code box into a text file or command prompt and expect it to run, without reading any of the surrounding comments.
+
+You cannot assume your users have any context besides what you put in a code sample and maybe one or two sentences above or below. 
+
+### Strategies For Documentation
+
 Web pages have to employ scannable text using:
 *  highlighted keywords (hypertext links serve as one form of highlighting; typeface variations and color are others)
 *  meaningful sub-headings (not "clever" ones)
