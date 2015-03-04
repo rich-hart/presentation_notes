@@ -18,7 +18,7 @@ Good API documentation means taking these concepts into account in all levels of
 
 ## How Users Read Documentation
 
-__THEY DON'T!!!__ People rarely read web pages , documentation , source code word by word; instead, they scan the page, picking out individual words and sentences. 
+__THEY DON'T!!!__ People rarely read web pages / documentation / source code word by word; instead, they scan the page, picking out individual words and sentences. 
 
 __You can't expect that users will actually read any of your documentation__
 
