@@ -26,8 +26,9 @@ Prints a concatenated string of letters.
 
 __Pep8__ is a python style guide for formatting Python scripts.
 
-Running 
 ```
-pep8 Messy_Code.py
+$ pep8 MessyCode.py
+MessyCode.py:2:80: E501 line too long (140 > 79 characters)
+MessyCode.py:6:1: W391 blank line at end of file
 ```
-will print 
+
