@@ -26,15 +26,18 @@ Many users will try to copy and paste the exact contents of a code box into a te
 
 You cannot assume your users have any context besides what you put in a code sample and maybe one or two sentences above or below.
 
+
+
+## Source Code
+
 ### Strategies For Documentation
 
 Web pages have to employ scannable text using:
-*  highlighted keywords (hypertext links serve as one form of highlighting; typeface variations and color are others)
-*  meaningful sub-headings (not "clever" ones)
-*  bulleted lists
-*  the inverted pyramid style, starting with the conclusion
 
-## Source Code
+*  Standardized formatting
+*  Meaningful use of variables names and functions
+*  Clear seperations of functions
+*  I/O of functions stated in their descriptions
 
 ##### MessyCode.py
 
@@ -101,6 +104,14 @@ print(concat_string)
 ##### (See Karen's talk)
 
 ## ReadMe Files / API Documentation
+
+### Strategies For Documentation
+
+Web pages have to employ scannable text using:
+*  highlighted keywords (hypertext links serve as one form of highlighting; typeface variations and color are others)
+*  meaningful sub-headings (not "clever" ones)
+*  bulleted lists
+*  the inverted pyramid style, starting with the conclusion
 
 ### Categories of Documentation
 
