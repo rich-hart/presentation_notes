@@ -1,6 +1,7 @@
 # API Documentation
 Rich Hart
 
+
 ## About OpenStax
 
 OpenStax College is a nonprofit organization committed to improving student __access__ to quality learning materials (that are __readable__ and __accurate__).
@@ -8,11 +9,22 @@ OpenStax College is a nonprofit organization committed to improving student __ac
 ## Accuracy / Readability / Accessibility
 
 Good API documentation means taking these concepts into account in all levels of code. 
+
 * Source Code
 * Comments 
 * Commit Messages
 * ReadMe Files
 * API Documentation
+
+## How Users Read Documentation
+
+__THEY DON'T!!!__ People rarely read Web pages word by word; instead, they scan the page, picking out individual words and sentences. 
+
+__You can't expect that users will actually read any of your documentation__
+
+Many users will try to copy and paste the exact contents of a code box into a text file or command prompt and expect it to run, without reading any of the surrounding comments.
+
+You cannot assume your users have any context besides what you put in a code sample and maybe one or two sentences above or below.
 
 ## Source Code
 
@@ -85,16 +97,6 @@ print(concat_string)
 * https://github.com/Connexions/cnx-archive/blob/master/search_api_doc.rst
 
 ## Other Thoughts
-
-### How Users Read Documentation
-
-__THEY DON'T!!!__ People rarely read Web pages word by word; instead, they scan the page, picking out individual words and sentences. 
-
-__You can't expect that users will actually read any of your documentation__
-
-Many users will try to copy and paste the exact contents of a code box into a text file or command prompt and expect it to run, without reading any of the surrounding comments.
-
-You cannot assume your users have any context besides what you put in a code sample and maybe one or two sentences above or below. 
 
 ### Strategies For Documentation
 
