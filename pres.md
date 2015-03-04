@@ -115,3 +115,5 @@ Web pages have to employ scannable text using:
 * http://www.twilio.com/engineering/2012/01/18/dont-skimp-on-documentation
 
 * https://sendgrid.com/blog/cheat-codes-for-good-documentation/
+
+* http://www.nngroup.com/articles/how-users-read-on-the-web/
