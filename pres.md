@@ -28,7 +28,7 @@ You cannot assume your users have any context besides what you put in a code sam
 
 ## How Developers Write Documentation
 
-__WE DON'T!!!__ ... Unless threated
+__WE DON'T!!!__ ... Unless threatened
 
 ## Source Code
 
