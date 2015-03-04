@@ -32,6 +32,12 @@ MessyCode.py:2:80: E501 line too long (140 > 79 characters)
 MessyCode.py:6:1: W391 blank line at end of file
 ```
 
+You can also link pep8 with git to see you changes in relation to another branch.
+
+```
+git diff [branch_1] [branch_2] | pep8 --diff
+```
+
 __autopep8__ is a tool to format your code to pep8 standards. 
 
 ```
@@ -41,3 +47,6 @@ letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
 print(''.join(letters))
 ```
 
+```
+
+```
