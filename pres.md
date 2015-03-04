@@ -47,6 +47,14 @@ letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
 print(''.join(letters))
 ```
 
+Other usefule changes.
 ```
+import string
 
+letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
+           'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+
+concat_string = string.join(letters, '')
+
+print(concat_string)
 ```
