@@ -44,6 +44,7 @@ Web pages have to employ scannable text using:
 *  Meaningful use of variables names and functions
 *  Clear seperations of functions
 *  I/O of functions stated in their descriptions
+*  Code translates clearly into english
 
 ### Example
 
