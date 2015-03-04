@@ -30,6 +30,10 @@ You cannot assume your users have any context besides what you put in a code sam
 
 __WE DON'T!!!__ ... Unless forced or threatened.
 
+(TALK ABOUT README DRIVEN DEVELOPMENT VS TEST DRIVEN)
+
+Test driven has travis and coveralls... but there doesn't seem to be a tool for documentation.  
+
 ## Source Code
 
 ### Strategies For Documentation
