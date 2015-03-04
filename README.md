@@ -2,16 +2,6 @@
 
 http://www.programmableweb.com/news/api-consumers-want-reliability-documentation-and-community/2013/01/07
 
-http://www.programmableweb.com/wp-content/apisurvey-consume-why-600x357.png
+http://www.twilio.com/engineering/2012/01/18/dont-skimp-on-documentation
 
-http://www.programmableweb.com/wp-content/apisurvey-consume-technologies-600x350.png
-
-http://www.programmableweb.com/wp-content/apisurvey-consume-importance-600x375.png
-
-http://www.programmableweb.com/wp-content/apisurvey-provide-why-600x365.png
-
-http://www.programmableweb.com/wp-content/apisurvey-location-600x304.png
-
-http://www.programmableweb.com/wp-content/apisurvey-organization-600x309.png
-
-http://www.programmableweb.com/wp-content/apisurvey-position-600x438.png
+https://sendgrid.com/blog/cheat-codes-for-good-documentation/
