@@ -26,6 +26,14 @@ Many users will try to copy and paste the exact contents of a code box into a te
 
 You cannot assume your users have any context besides what you put in a code sample and maybe one or two sentences above or below.
 
+### Strategies For Documentation
+
+Web pages have to employ scannable text using:
+*  highlighted keywords (hypertext links serve as one form of highlighting; typeface variations and color are others)
+*  meaningful sub-headings (not "clever" ones)
+*  bulleted lists
+*  the inverted pyramid style, starting with the conclusion
+
 ## Source Code
 
 ##### MessyCode.py
@@ -97,14 +105,6 @@ print(concat_string)
 * https://github.com/Connexions/cnx-archive/blob/master/search_api_doc.rst
 
 ## Other Thoughts
-
-### Strategies For Documentation
-
-Web pages have to employ scannable text using:
-*  highlighted keywords (hypertext links serve as one form of highlighting; typeface variations and color are others)
-*  meaningful sub-headings (not "clever" ones)
-*  bulleted lists
-*  the inverted pyramid style, starting with the conclusion
 
 ### Controversial Strategies For Documentation
  * Writing the documentation first will also help you program to an interface, not to an implementation.
