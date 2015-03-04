@@ -58,6 +58,9 @@ concat_string = string.join(letters, '')
 
 print(concat_string)
 ```
+## Comments / Commit Messages
+
+See Karen's talk
 
 ## ReadMe Files / Web Page Documentation
 
