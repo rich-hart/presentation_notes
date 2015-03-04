@@ -27,6 +27,7 @@ print(''.join(letters))
 Prints a concatenated string of letters.
 
 ##### Pep8
+
 A python style guide for formatting Python scripts.
 
 ```sh
@@ -42,6 +43,7 @@ git diff [branch_1] [branch_2] | pep8 --diff
 ```
 
 ##### AutoPep8
+
 A tool to format your code to pep8 standards. 
 
 ```sh
@@ -52,6 +54,7 @@ print(''.join(letters))
 ```
 
 ##### Other Changes
+
 ```python
 import string
 
@@ -62,6 +65,7 @@ concat_string = string.join(letters, '')
 
 print(concat_string)
 ```
+
 ## Comments / Commit Messages
 
 ##### (See Karen's talk)
@@ -69,6 +73,7 @@ print(concat_string)
 ## ReadMe Files / Web Page Documentation
 
 ### Categories of Documentation
+
 * Descriptive
 * Technical Reference & Code
 * Tutorials
