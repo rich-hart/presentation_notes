@@ -32,3 +32,11 @@ MessyCode.py:2:80: E501 line too long (140 > 79 characters)
 MessyCode.py:6:1: W391 blank line at end of file
 ```
 
+AutoPep8 is a tool to auto format your code. 
+
+```
+letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
+           'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+print(''.join(letters))
+```
+
