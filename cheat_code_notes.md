@@ -1,4 +1,5 @@
 # Cheat Codes for Good Documentation
+https://sendgrid.com/blog/cheat-codes-for-good-documentation/
 
 ## Why Docs Matter
 * Programmable Web’s API survey finds that “complete and accurate documentation” rates as the most important factor for people that consume APIs.
