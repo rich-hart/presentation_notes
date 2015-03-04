@@ -39,6 +39,8 @@ Web pages have to employ scannable text using:
 *  Clear seperations of functions
 *  I/O of functions stated in their descriptions
 
+### Example
+
 ##### MessyCode.py
 
 ```python
