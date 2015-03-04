@@ -67,4 +67,7 @@ See Karen's talk
 * http://apidocjs.com/
 * https://github.com/Connexions/cnx-archive/blob/master/search_api_doc.rst
 
+## Other Thoughts
 
+### How Users Read on the Web
+__THEY DON'T!!!__
