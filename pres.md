@@ -51,7 +51,7 @@ letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
 print(''.join(letters))
 ```
 
-##### Other usefule changes.
+##### Other Changes
 ```python
 import string
 
