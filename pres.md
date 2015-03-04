@@ -64,6 +64,14 @@ See Karen's talk
 
 ## ReadMe Files / Web Page Documentation
 
+### Categories of Documentation
+* Descriptive
+* Technical Reference & Code
+* Tutorials
+* Interactive
+
+### Examples
+
 * http://apidocjs.com/
 * https://github.com/Connexions/cnx-archive/blob/master/search_api_doc.rst
 
