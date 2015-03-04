@@ -75,6 +75,8 @@ print(''.join(letters))
 
 ##### Other Changes
 
+Clever vs Meaningful
+
 ```python
 import string
 
