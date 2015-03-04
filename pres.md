@@ -81,7 +81,7 @@ See Karen's talk
 
 __THEY DON'T!!!__ People rarely read Web pages word by word; instead, they scan the page, picking out individual words and sentences. 
 
-__Bottom Line__: You can't expect that users will actually read any of your documentation
+__You can't expect that users will actually read any of your documentation__
 
 Web pages have to employ scannable text using:
 *  highlighted keywords (hypertext links serve as one form of highlighting; typeface variations and color are others)
