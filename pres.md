@@ -32,7 +32,7 @@ MessyCode.py:2:80: E501 line too long (140 > 79 characters)
 MessyCode.py:6:1: W391 blank line at end of file
 ```
 
-__autopep8__ is a tool to auto format your code. 
+__autopep8__ is a tool to format your code to pep8 standards. 
 
 ```
 $ autopep8 MessyCode.py
