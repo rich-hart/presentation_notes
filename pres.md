@@ -3,7 +3,7 @@ Rich Hart
 
 ## About OpenStax
 
-OpenStax College is a nonprofit organization committed to improving student access to quality learning materials (that are readable and accurate).
+OpenStax College is a nonprofit organization committed to improving student __access__ to quality learning materials (that are __readable__ and __accurate__).
 
 ## Accuracy / Readability / Accessibility
 
