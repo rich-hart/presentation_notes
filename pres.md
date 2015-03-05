@@ -130,15 +130,10 @@ print(concat_string)
 
 ## REST API Documentation
 
-### Strategies For Documentation
+### Strategies
 
-Web pages have to employ scannable text using:
-*  highlighted keywords (hypertext links serve as one form of highlighting; typeface variations and color are others)
-*  meaningful sub-headings (not "clever" ones)
-*  bulleted lists
-*  the inverted pyramid style, starting with the conclusion
-
-
+* Follow a standardized template for all web APIs
+* Sample calls and responses are especially useful
 
 ### Examples
 
