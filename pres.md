@@ -185,7 +185,7 @@ APIDOC allows REST APIs to be documented within source code comments.
 
 https://github.com/Connexions/cnx-archive/blob/master/search_api_doc.rst
 
-### Credits / Additional Reading
+## Credits / Additional Reading
 
 * http://apidocjs.com/
 
