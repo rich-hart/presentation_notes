@@ -144,14 +144,25 @@ print(concat_string)
 * Follow a standardized template for all web APIs
 * Sample calls and responses are especially useful
 
-### Examples
+### Template
 
-##### APIDOC
+REST API normally include the following in their documentation. 
+
+* Title
+* URL
+* Method
+* URL Params
+* Data Params
+* Success Response
+* Error Response
+* Call Example
+* Response Example
+
+### Example using API DOC
 
 Allows REST APIs to be documented within source code comments.
 
 ```python
-def postUser():
 """
  @api {post} /user Create a new User
  @apiVersion 0.3.0
