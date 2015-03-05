@@ -60,7 +60,7 @@ Writing the documentation first will also help you program to an interface, not 
 *  Code that translates into english
 *  Meaningful is more valuable than clever
 
-### Example
+### Python Example
 
 ##### MessyCode.py
 
