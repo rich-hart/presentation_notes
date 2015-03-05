@@ -163,7 +163,7 @@ Web APIs normally include the following in their documentation.
 
 ### Example using APIDOC
 
-APIDOC allows REST APIs to be documented within source code comments.
+APIDOC allows REST APIs to be documented within source code comments.  Here is an examle writing API documentation inside of a python comment.    
 
 ```python
 """
