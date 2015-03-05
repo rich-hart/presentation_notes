@@ -50,9 +50,9 @@ Writing the documentation first will also help you program to an interface, not 
 
 \* Might be controversial. 
 
-## Source Code
+## Source Code Documentation
 
-### Strategies For Documentation
+### Strategies
 
 *  Standardized formatting
 *  Seperation of tasks
