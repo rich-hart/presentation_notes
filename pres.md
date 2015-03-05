@@ -23,6 +23,8 @@ Good API documentation means taking these concepts into account in all levels of
 
 <!---
 http://xkcd.com/1296/
+
+Give a dolar line
 -->
 ## How Users Read Documentation
 
