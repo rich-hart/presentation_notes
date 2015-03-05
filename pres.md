@@ -20,6 +20,10 @@ Good API documentation means taking these concepts into account in all levels of
 * ReadMe Files
 * __REST API Documentation__
 
+
+<!---
+http://xkcd.com/1296/
+-->
 ## How Users Read Documentation
 
 __THEY DON'T!!!__ People rarely read web pages / documentation / source code word by word; instead, they scan the page, picking out individual words and sentences. 
