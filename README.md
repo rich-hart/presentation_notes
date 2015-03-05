@@ -141,7 +141,7 @@ print(concat_string)
 
 The difference between clever and meaningful is relative to the complexity of the surrounding code. 
 
-## Web APIs Documentation
+## Web API Documentation
 
 ### Strategies
 
