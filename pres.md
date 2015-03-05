@@ -121,7 +121,7 @@ concat_string = string.join(letters, null_character)
 print(concat_string)
 ```
 
-## API Documentation
+## REST API Documentation
 
 ### Strategies For Documentation
 
