@@ -139,7 +139,10 @@ print(concat_string)
 
 ##### APIDOC
 
+Allows REST APIs to be documented within sourse code comments.
+
 ```python
+def postUser():
 """
  @api {post} /user Create a new User
  @apiVersion 0.3.0
