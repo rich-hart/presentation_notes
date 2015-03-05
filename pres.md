@@ -50,7 +50,7 @@ Writing the documentation first will also help you program to an interface, not 
 
 \* Might be controversial. 
 
-### Categories of Documentation
+## Categories of Documentation
 
 * Descriptive
 * Technical Reference & Code
