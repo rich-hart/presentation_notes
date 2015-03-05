@@ -55,10 +55,9 @@ Writing the documentation first will also help you program to an interface, not 
 ### Strategies For Documentation
 
 *  Standardized formatting
-*  Meaningful use of variables names and functions
 *  Seperation of tasks
+*  Meaningful use of variables names and functions
 *  Code that translates into english
-*  Meaningful is more valuable than clever
 
 ### Python Example
 
