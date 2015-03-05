@@ -137,7 +137,7 @@ concat_string = string.join(letters, null_character)
 print(concat_string)
 ```
 
-## REST API Documentation
+## REST APIs Documentation
 
 ### Strategies
 
@@ -178,7 +178,7 @@ Allows REST APIs to be documented within source code comments.
 """
 ```
 
-http://apidocjs.com/example/#api-User-PostUser
+(APIDOC Generated Example) [http://apidocjs.com/example/#api-User-PostUser]
 
 ### CNX-Archive Example
 
