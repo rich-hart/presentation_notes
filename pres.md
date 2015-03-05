@@ -50,10 +50,6 @@ Writing the documentation first will also help you program to an interface, not 
 
 * Might be controversial. 
 
-## Test Driven Developement vs Readme Driven Development
-
-Test driven has travis and coveralls... but there doesn't seem to be a tool for documentation.  
-
 ## Source Code
 
 ### Strategies For Documentation
