@@ -107,11 +107,7 @@ concat_string = string.join(letters, null_character)
 print(concat_string)
 ```
 
-## Comments / Commit Messages
-
-##### (See Karen's talk)
-
-## ReadMe Files / API Documentation
+## API Documentation
 
 ### Strategies For Documentation
 
