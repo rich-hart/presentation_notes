@@ -2,7 +2,7 @@
 Rich Hart
 
 
-## Fundimentals of OpenStax's Mission
+## Fundamentals of OpenStax's Mission
 
 OpenStax College is a nonprofit organization committed to improving student  __access__ to quality learning materials (that are __readable__ and __accurate__).
 
@@ -24,7 +24,7 @@ Good API documentation means taking these concepts into account in all levels of
 <!---
 http://xkcd.com/1296/
 
-Give a dolar line
+Give a dollar line
 -->
 ## How Users Read Documentation
 
@@ -51,7 +51,7 @@ Writing documentation requires dedicate time in your development cycle.
 
 ## ReadMe Driven Development *
 
-A ReadMe file is to ReadMe Driven Developement as a unit test is to test driven developement
+A ReadMe file is to ReadMe Driven Development as a unit test is to test driven development
 
 Write your Readme first while you're still excited about the project.
 
@@ -71,7 +71,7 @@ Writing the documentation first will also help you program to an interface, not 
 ### Strategies
 
 *  Standardized formatting
-*  Seperation of tasks
+*  Separation of tasks
 *  Meaningful use of variables names and functions
 *  Code that translates into english
 
@@ -148,7 +148,7 @@ print(concat_string)
 
 ##### APIDOC
 
-Allows REST APIs to be documented within sourse code comments.
+Allows REST APIs to be documented within source code comments.
 
 ```python
 def postUser():
@@ -160,7 +160,7 @@ def postUser():
  @apiPermission none
  
  @apiDescription In this case "apiErrorStructure" is defined and used.
- Define blocks with params that will be used in several functions, so you dont have to rewrite them.
+ Define blocks with params that will be used in several functions, so you don't have to rewrite them.
  
  @apiParam {String} name Name of the User.
  
