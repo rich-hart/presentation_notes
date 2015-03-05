@@ -40,7 +40,7 @@ You cannot assume your users have any context besides what you put in a code sam
 
 ## How Developers Write Documentation
 
-__WE DON'T!!!__ ... Unless forced or threatened.
+__WE DON'T!!!__ Unless forced or threatened.
 
 Just like quick-and-dirty coding decisions can lead to technical debt, poor documentation can lead to operational debt.
 
