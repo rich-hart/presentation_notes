@@ -170,7 +170,7 @@ def postUser():
 """
 ```
 
-http://apidocjs.com/example/
+http://apidocjs.com/example/#api-User-PostUser
 
 ##### CNX-Archive
 
