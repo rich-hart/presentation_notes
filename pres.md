@@ -50,6 +50,13 @@ Writing the documentation first will also help you program to an interface, not 
 
 \* Might be controversial. 
 
+### Categories of Documentation
+
+* Descriptive
+* Technical Reference & Code
+* Tutorials
+* Interactive
+
 ## Source Code Documentation
 
 ### Strategies
@@ -131,12 +138,7 @@ Web pages have to employ scannable text using:
 *  bulleted lists
 *  the inverted pyramid style, starting with the conclusion
 
-### Categories of Documentation
 
-* Descriptive
-* Technical Reference & Code
-* Tutorials
-* Interactive
 
 ### Examples
 
