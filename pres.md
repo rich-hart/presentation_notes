@@ -178,6 +178,8 @@ https://github.com/Connexions/cnx-archive/blob/master/search_api_doc.rst
 
 ### Credits
 
+* http://apidocjs.com/
+
 * http://bocoup.com/weblog/documenting-your-api/
 
 * http://www.programmableweb.com/news/api-consumers-want-reliability-documentation-and-community/2013/01/07
