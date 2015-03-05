@@ -178,7 +178,7 @@ Allows REST APIs to be documented within source code comments.
 """
 ```
 
-(APIDOC Generated Example) [http://apidocjs.com/example/#api-User-PostUser]
+[APIDOC Generated Example](http://apidocjs.com/example/#api-User-PostUser)
 
 ### CNX-Archive Example
 
