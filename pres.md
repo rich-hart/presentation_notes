@@ -183,7 +183,7 @@ Allows REST APIs to be documented within source code comments.
 
 http://apidocjs.com/example/#api-User-PostUser
 
-##### CNX-Archive
+### CNX-Archive Example
 
 https://github.com/Connexions/cnx-archive/blob/master/search_api_doc.rst
 
