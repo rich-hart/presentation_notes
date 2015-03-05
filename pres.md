@@ -137,6 +137,27 @@ print(concat_string)
 
 ### Examples
 
+##### APIDOC
+
+```python
+"""
+ @api {post} /user Create a new User
+ @apiVersion 0.3.0
+ @apiName PostUser
+ @apiGroup User
+ @apiPermission none
+ 
+ @apiDescription In this case "apiErrorStructure" is defined and used.
+ Define blocks with params that will be used in several functions, so you dont have to rewrite them.
+ 
+ @apiParam {String} name Name of the User.
+ 
+ @apiSuccess {Number} id         The new Users-ID.
+ 
+ @apiErrorStructure CreateUserError
+"""
+```
+
 * http://apidocjs.com/
 * https://github.com/Connexions/cnx-archive/blob/master/search_api_doc.rst
 
