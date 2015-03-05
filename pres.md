@@ -18,7 +18,7 @@ Good API documentation means taking these concepts into account in all levels of
 * Comments 
 * Commit Messages
 * ReadMe Files
-* __REST API Documentation__
+* __Web API Documentation__
 
 
 <!---
@@ -139,7 +139,7 @@ concat_string = string.join(letters, null_character)
 print(concat_string)
 ```
 
-## REST APIs Documentation
+## Web APIs Documentation
 
 ### Strategies
 
@@ -148,7 +148,7 @@ print(concat_string)
 
 ### Template
 
-REST APIs normally include the following in their documentation. 
+Web APIs normally include the following in their documentation. 
 
 * Title
 * URL
