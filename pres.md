@@ -44,9 +44,10 @@ __WE DON'T!!!__ ... Unless forced or threatened.
 
 Just like quick-and-dirty coding decisions can lead to technical debt, poor documentation can lead to operational debt.
 
+__Good documentation is an engineering problem and needs to be prioritized__
+
 Writing documentation requires dedicate time in your product development cycle.
 
-__Good documentation is an engineering problem and needs to be prioritized__
 
 ## ReadMe Driven Development *
 
