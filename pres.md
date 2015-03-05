@@ -40,12 +40,9 @@ Test driven has travis and coveralls... but there doesn't seem to be a tool for 
 
 ### Strategies For Documentation
 
-Web pages have to employ scannable text using:
-
 *  Standardized formatting
 *  Meaningful use of variables names and functions
-*  Clear seperations of functions
-*  I/O of functions stated in their descriptions
+*  Clear seperation of tasks
 *  Code translates clearly into english
 
 ### Example
