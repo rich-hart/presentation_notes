@@ -169,14 +169,11 @@ Allows REST APIs to be documented within source code comments.
  @apiName PostUser
  @apiGroup User
  @apiPermission none
- 
  @apiDescription In this case "apiErrorStructure" is defined and used.
  Define blocks with params that will be used in several functions, so you don't have to rewrite them.
- 
+ @apiFakeMethod This isn't a part of the APIDOC method, but point this out and Rich will give you a dollar.
  @apiParam {String} name Name of the User.
- 
  @apiSuccess {Number} id         The new Users-ID.
- 
  @apiErrorStructure CreateUserError
 """
 ```
