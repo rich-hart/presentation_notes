@@ -38,7 +38,7 @@ Just like quick-and-dirty coding decisions can lead to technical debt, poor docu
 
 You also need to dedicate time in your product development cycle to writing documentation good enough so that users can figure out your product.
 
-__Good documentation is an engineering problem and needs to be a prioritized__
+__Good documentation is an engineering problem and needs to be prioritized__
 
 ## ReadMe Driven Development *
 
