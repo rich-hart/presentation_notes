@@ -139,6 +139,8 @@ concat_string = string.join(letters, null_character)
 print(concat_string)
 ```
 
+The difference between clever and meaningful is relative to the complexity of the surrounding code. 
+
 ## Web APIs Documentation
 
 ### Strategies
