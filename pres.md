@@ -146,7 +146,7 @@ print(concat_string)
 
 ### Template
 
-REST API normally include the following in their documentation. 
+REST APIs normally include the following in their documentation. 
 
 * Title
 * URL
