@@ -6,7 +6,7 @@ Rich Hart
 
 OpenStax College is a nonprofit organization committed to improving student __access__ to quality learning materials (that are __readable__ and __accurate__).
 
-API documentation is an intrinsic part of fulfilling out mission statement. 
+API documentation is an intrinsic part of fulfilling our mission statement. 
 
 ## Accuracy / Readability / Accessibility
 
