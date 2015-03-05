@@ -97,7 +97,7 @@ MessyCode.py:2:80: E501 line too long (140 > 79 characters)
 MessyCode.py:6:1: W391 blank line at end of file
 ```
 
-You can also link pep8 with git to see you changes in relation to another branch.
+You can also link pep8 with git check your code in relation to another branch.
 
 ```sh
 git diff [branch_1] [branch_2] | pep8 --diff
