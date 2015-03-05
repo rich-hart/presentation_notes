@@ -42,8 +42,8 @@ Test driven has travis and coveralls... but there doesn't seem to be a tool for 
 
 *  Standardized formatting
 *  Meaningful use of variables names and functions
-*  Clear seperation of tasks
-*  Code translates clearly into english
+*  Seperation of tasks
+*  Code that translates into english
 
 ### Example
 
