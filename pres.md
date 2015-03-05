@@ -157,6 +157,7 @@ REST APIs normally include the following in their documentation.
 * Error Response
 * Call Example
 * Response Example
+* Additional Notes
 
 ### Example using APIDOC
 
