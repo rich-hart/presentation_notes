@@ -48,7 +48,7 @@ Write your Readme first while you're still excited about the project.
 
 Writing the documentation first will also help you program to an interface, not to an implementation.
 
-* Might be controversial. 
+\* Might be controversial. 
 
 ## Source Code
 
