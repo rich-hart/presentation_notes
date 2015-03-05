@@ -158,9 +158,9 @@ REST API normally include the following in their documentation.
 * Call Example
 * Response Example
 
-### Example using API DOC
+### Example using APIDOC
 
-Allows REST APIs to be documented within source code comments.
+APIDOC allows REST APIs to be documented within source code comments.
 
 ```python
 """
