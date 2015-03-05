@@ -6,6 +6,8 @@ Rich Hart
 
 OpenStax College is a nonprofit organization committed to improving student __access__ to quality learning materials (that are __readable__ and __accurate__).
 
+API documentation is an intrinsic part of fulfilling out mission statement. 
+
 ## Accuracy / Readability / Accessibility
 
 Good API documentation means taking these concepts into account in all levels of code. 
@@ -32,7 +34,13 @@ You cannot assume your users have any context besides what you put in a code sam
 
 __WE DON'T!!!__ ... Unless forced or threatened.
 
-(TALK ABOUT README DRIVEN DEVELOPMENT VS TEST DRIVEN)
+__Good documentation is an engineering problem and needs to be a prioritized__
+
+Just like quick-and-dirty coding decisions can lead to technical debt, poor documentation can lead to operational debt.
+
+You also need to dedicate time in your product development cycle to writing documentation good enough so that users can figure out your product.
+
+## Test Driven Developement vs Readme Driven Development
 
 Test driven has travis and coveralls... but there doesn't seem to be a tool for documentation.  
 
@@ -145,3 +153,5 @@ Web pages have to employ scannable text using:
 * https://sendgrid.com/blog/cheat-codes-for-good-documentation/
 
 * http://www.nngroup.com/articles/how-users-read-on-the-web/
+
+* http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
