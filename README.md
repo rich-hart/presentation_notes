@@ -176,7 +176,6 @@ APIDOC allows REST APIs to be documented within source code comments.  Here is a
  @apiPermission none
  @apiDescription In this case "apiErrorStructure" is defined and used.
  Define blocks with params that will be used in several functions, so you don't have to rewrite them.
- @apiFake This isn't a part of the APIDOC, but earn a dollar if you're the first to point this out.
  @apiParam {String} name Name of the User.
  @apiSuccess {Number} id         The new Users-ID.
  @apiErrorStructure CreateUserError
