@@ -34,11 +34,21 @@ You cannot assume your users have any context besides what you put in a code sam
 
 __WE DON'T!!!__ ... Unless forced or threatened.
 
-__Good documentation is an engineering problem and needs to be a prioritized__
-
 Just like quick-and-dirty coding decisions can lead to technical debt, poor documentation can lead to operational debt.
 
 You also need to dedicate time in your product development cycle to writing documentation good enough so that users can figure out your product.
+
+__Good documentation is an engineering problem and needs to be a prioritized__
+
+## ReadMe Driven Development *
+
+A ReadMe file is to ReadMe Driven Developement as a unit test is to test driven developement
+
+Write your Readme first while you're still excited about the project.
+
+Writing the documentation first will also help you program to an interface, not to an implementation.
+
+* Might be controversial. 
 
 ## Test Driven Developement vs Readme Driven Development
 
