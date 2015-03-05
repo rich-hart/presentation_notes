@@ -144,12 +144,6 @@ Web pages have to employ scannable text using:
 * http://apidocjs.com/
 * https://github.com/Connexions/cnx-archive/blob/master/search_api_doc.rst
 
-## Other Thoughts
-
-### Controversial Strategies For Documentation
- * Writing the documentation first will also help you program to an interface, not to an implementation.
- * ReadMe Driven Development
-
 ### Credits
 
 * http://www.programmableweb.com/news/api-consumers-want-reliability-documentation-and-community/2013/01/07
