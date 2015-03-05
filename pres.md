@@ -2,7 +2,7 @@
 Rich Hart
 
 
-## About OpenStax
+## Fundimentals of OpenStax's Mission
 
 OpenStax College is a nonprofit organization committed to improving student  __access__ to quality learning materials (that are __readable__ and __accurate__).
 
