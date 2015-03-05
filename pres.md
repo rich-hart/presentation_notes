@@ -145,6 +145,8 @@ Web pages have to employ scannable text using:
 
 ### Credits
 
+* http://bocoup.com/weblog/documenting-your-api/
+
 * http://www.programmableweb.com/news/api-consumers-want-reliability-documentation-and-community/2013/01/07
 
 * http://www.twilio.com/engineering/2012/01/18/dont-skimp-on-documentation
