@@ -4,7 +4,9 @@ Rich Hart
 
 ## About OpenStax
 
-OpenStax College is a nonprofit organization committed to improving student __access__ to quality learning materials (that are __readable__ and __accurate__).
+OpenStax College is a nonprofit organization committed to improving student  __access__ to quality learning materials (that are __readable__ and __accurate__).
+
+OpenStax College is a nonprofit organization committed to improving __developer__ __access__ to code that is __readable__ and __accurate__.
 
 API documentation is an intrinsic part of fulfilling our mission statement. 
 
