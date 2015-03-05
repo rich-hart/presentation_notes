@@ -161,7 +161,10 @@ def postUser():
 """
 ```
 
-* http://apidocjs.com/
+* http://apidocjs.com/example/
+
+##### CNX-Archive
+
 * https://github.com/Connexions/cnx-archive/blob/master/search_api_doc.rst
 
 ### Credits
