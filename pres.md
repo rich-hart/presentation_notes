@@ -36,7 +36,7 @@ Many users will try to copy and paste the exact contents of a code box into a te
 
 You cannot assume your users have any context besides what you put in a code sample and maybe one or two sentences above or below.
 
-- Kevin Burke
+\- Kevin Burke
 
 ## How Developers Write Documentation
 
