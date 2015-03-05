@@ -57,7 +57,7 @@ Write your Readme first while you're still excited about the project.
 
 Writing the documentation first will also help you program to an interface, not to an implementation.
 
-Doc test and it can be add to unit test in python. https://docs.python.org/2/library/doctest.html
+Python has [doctest](https://docs.python.org/2/library/doctest.html) which are unit tests specifically for documentation. 
 
 \* Might be controversial. 
 
