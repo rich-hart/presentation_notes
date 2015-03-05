@@ -14,7 +14,7 @@ Good API documentation means taking these concepts into account in all levels of
 * Comments 
 * Commit Messages
 * ReadMe Files
-* __API Documentation__
+* __REST API Documentation__
 
 ## How Users Read Documentation
 
