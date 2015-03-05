@@ -85,7 +85,7 @@ letters = ['a','b','c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', '
 print(''.join(letters))
 ```
 
-Prints a concatenated string of letters.
+Prints a string of letters.
 
 ##### Pep8
 
