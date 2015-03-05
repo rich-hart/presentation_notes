@@ -44,6 +44,7 @@ Test driven has travis and coveralls... but there doesn't seem to be a tool for 
 *  Meaningful use of variables names and functions
 *  Seperation of tasks
 *  Code that translates into english
+*  Meaningful is more valuable than clever
 
 ### Example
 
